@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ramganeshnatarajan/Test_.NET%20Project/_apis/build/status/RamGaneshNatarajan.pipelines-dotnet-core)](https://dev.azure.com/ramganeshnatarajan/Test_.NET%20Project/_build/latest?definitionId=1)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
